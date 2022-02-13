@@ -1,0 +1,19 @@
+
+
+#name_highlight{
+    color: rgb(243, 211, 70);
+    text-decoration: none;
+}
+
+.top_left,.top_right{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 2%;
+    background-color: blueviolet;
+
+}
+
+.top_right img{
+    width: 100%;
+}
